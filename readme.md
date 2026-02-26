@@ -874,6 +874,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Niels Gouman](https://nizzlay.com/uses/) — Tech. Start-ups. SaaS.
 * [Iván Olivares](https://iolivares.com/uses) — Building web experiences since 2006. Javascript Lover ❤️.
 * [Juan Fernandes](https://www.juanfernandes.uk/uses/) — Freelance Front-end Developer
+* [Neil Merton](https://neil.merton.dev/about/uses) — Front-end developer: SaaS, product-focused UI problem solver.
 * [Kevin Simkanič](https://github.com/kevinko12323/uses) — Wordpress ninja 😎 React lover ❤️ CSS master 🧐
 * [Lakshmipriya Mukundan](https://gist.github.com/lakshmipriyamukundan/ddd224306ce962f4f159f1065f0f0c67) — Javascript lover, FullStack enthusiast, React Learner (current), Pet lover
 * [Matt Layman](https://www.mattlayman.com/uses/) — A Python developer focused on Django

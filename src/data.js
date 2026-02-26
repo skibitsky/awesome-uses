@@ -19520,7 +19520,8 @@ module.exports = [
   },
   {
     name: 'Neil Merton',
-    description: 'Front-end developer: SaaS, product-focused UI problem solver.',
+    description:
+      'Front-end developer: SaaS, product-focused UI problem solver.',
     url: 'https://neil.merton.dev/about/uses',
     emoji: '🤘',
     country: '🇬🇧',
