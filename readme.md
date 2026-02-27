@@ -315,6 +315,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Ali Alaa](https://www.alialaa.dev/uses) — Front-end web developer & online learning content creator.
 * [Devansh Bajaj](https://devanshbajaj.dev/uses) — 21 | M | Front End | Web Developer | Freelancer | Android enthusiast
 * [Ivan Muratov](https://binakot.github.io/resume/uses) — SOFTWARE DEVELOPER. TECHNICAL TEAM LEADER. CHIEF TECHNICAL OFFICER.
+* [David V. Kimball](https://davidvkimball.com/uses) — Digital marketing professional. Loves technology and communication, especially together.
 * [Carlos Longarela](https://github.com/CarlosLongarela/uses/) — I enjoy solving problems and creating new stuff. WordPress lover and developer. Standards enthusiast
 * [Monespiseth Ly](https://pisethx.com/uses) — Frontend Developer, JavaScript Enthusiast
 * [Christian Oliff](https://christianoliff.com/uses/) — Front-end web developer person.
