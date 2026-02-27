@@ -914,6 +914,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Michael Mior](https://michael.mior.ca/uses/) — Assistant Professor and Director of the Data Unity Lab at RIT
 * [Kai Devrim](https://devrim.tech/uses/) — IT/Programming Student & Really Bad Hacker
 * [Josh Beard](https://joshbeard.me/uses/) — Sysadmin, DevOps, Hobbyist
+* [Kevin Renskers](https://www.loopwerk.io/articles/2026/what-i-use/) — Freelance software developer with a passion for good usability and great design.
 * [Thanh Doan](https://doantranminhthanh.com/uses) — Full-stack Engineer building impactful software and contributing to open source
 * [Peter Forret](https://blog.forret.com/uses/) — Photographer, tinkerer, software architect
 * [Scott Zirkel](https://scottzirkel.com/uses) — Making stuff up since 1977
