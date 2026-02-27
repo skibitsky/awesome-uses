@@ -130,7 +130,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Jonas Hietala](https://www.jonashietala.se/uses/) — Writer, developer and wannabe code monkey.
 * [Marshall Bowers](https://maxdeviant.com/uses/) — Conjurer of code. Devourer of art. Pursuer of æsthetics.
 * [Simon Gagnon](https://simoncrypta.dev/uses/) — Makes software and coffee
-* [Sho Koike](https://putcut.net/uses) — Software Engineer, Gamer, Podcaster
+* [Sho Koike](https://putcut.dev/uses) — Software Engineer, Gamer, Podcaster
 * [Michal Mazur](https://cybershu.eu/uses.html) — Backend Software Engineer, Blogger, Digital Nomad, Technical Generalist
 * [Khafizi Noh](https://mkfizi.dev/uses) — Full-stack web developer based in Cyberjaya, Malaysia.
 * [Theodoros Ploumis](https://www.theodorosploumis.com/en/uses) — Full-stack Drupal developer and open-source evangelist based on Greece
