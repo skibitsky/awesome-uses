@@ -151,7 +151,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Alex Stepankov](https://xeurun.dev/uses/) — Team Lead • Senior Developer • Creator
 * [Donavon West](https://donavon.com/uses) — Spread Love {...❤️}
 * [Noah](https://mazepin.ch/uses) — Swiss + Sysamdin
-* [Jesse Stilwell](https://stilwell.dev/uses) — DevOps Engineer and Hobbyist Web Developer
+* [Jesse Idey](https://jesse.id/uses) — DevOps Engineer and Full Stack Developer
 * [Raymond Luong](https://www.raymondluong.com/uses/) — Front End Platform + Design Systems Engineer
 * [Luka Harambasic](https://harambasic.de/uses) — German/Croatian product manager from Copenhagen (Denmark) with a deep interest in web development.
 * [Justin Mahar](https://justinmahar.com/uses/) — Extremely bald Software Architect & Content Creator
